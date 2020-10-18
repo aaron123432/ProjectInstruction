@@ -43,7 +43,11 @@ https://github.com/aaron123432/ProjectInstruction/raw/main/Restaurant_Demo1.msi
 ## Andoird App:
 
 ## Windows Software:
-
+After finishing the installation, a file named "Restaurant Demo" will appear on the desktop.
+1. The welcome page contains two part. (sign in and sign up)
+2. Sign in: input your username and password to log in. If you don't have an account, please click  "Don't have an account?Click here" to sign up.
+3. Sign up: input the username, email address, password and confirm password to finish the registration. Notice that the username may exist, and the password and confirm password need to match. 
+4.  click sign up button to finish registration
 # Link of the source code
 
 ## Andoird App:
