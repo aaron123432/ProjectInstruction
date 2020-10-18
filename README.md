@@ -6,6 +6,15 @@ Download the APK package to your android device from the downloads link and unzi
 
 Downloads:
 
-https://drive.google.com/file/d/1fZ9tIT4qNnaKtyBBsqMs2U5BTW-1RS1s/view?usp=sharing
+https://drive.google.com/file/d/184PKK2oYV7I25hOCocFt_SzTiENyXlkR/view?usp=sharing
+
+Recommanded device
+1.Emulator from Android Studio(API level 29 or above)
+2.Android device with version 9 or higher
 
 Windows Software:
+Download the Installer on your Windows PC and open the file to install the software on your machine. First page will be the sign in page and you can either sign in or click sign up button to create a new account. 
+
+Downloads:
+
+https://drive.google.com/file/d/19E-q18r9ACZ7E-f0xQ12VDUfjRk82Jqm/view?usp=sharing
