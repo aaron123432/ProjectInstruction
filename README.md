@@ -8,7 +8,7 @@ The server has a database running and with port forwarding technology. Each port
 Both Android app and Windows software are the access point to the database by port forwarding as well. Users don't need to join the same network to access the database due to the port forwarding technology. There is no authentication needed by the user, everything is preconfigured. Because of the nature of the structure, both software and application are only going to send the http request to the server and wait for the server's response. So, the software or application will display the information that is sent back from the server.
 # What is new
 
-## Andriod App:
+## Android App:
 For the first demo, we finished the first version of sign in and sign up form. Now, users can register and log in using our software.
 
 ## Windows Software:
@@ -16,7 +16,7 @@ For the first demo, we finished the first version of sign in and sign up form. N
 
 # Installation guide
 
-## Andriod App:
+## Android App:
 
 Download the APK package to your android device from the downloads link and unzip the file to get the apk file. to install the app to your device, simplely drag the apk file to your device. After installation, you will need to open the app to access the login section of the app. Once you successfully login to the app, you will be either redirect to the user page or the employee page based on your account role. Also, you can create a account by clicking the sign up button, and then enter the informations to the form and click the submit, and then go to login page to login to your account.
 
@@ -41,7 +41,7 @@ https://github.com/aaron123432/ProjectInstruction/raw/main/Restaurant_Demo1.msi
 
 # How to use
 
-## Andriod App:
+## Android App:
 
 If run the app in Android Studio:
 
@@ -60,7 +60,7 @@ After finishing the installation, a file named "Restaurant Demo" will appear on 
 
 # Link of the source code
 
-## Andriod App:
+## Android App:
 https://github.com/winsonwen/restaurant-management-system-frontend-android/tree/delivery-branch
 
 ## Windows Software:
