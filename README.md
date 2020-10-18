@@ -46,6 +46,9 @@ If run the app in Android Studio:
 
 First go to https://developer.android.com/studio to download android studio and install it to your PC. Open Android Studio, on the top-right cornor, click on AVD Manager, to create a new virtual device. Click the create new device button, and choose Phone on the Category and choose any device model you would like and click next. After each Release Version, it shows the API Level of the system image, make sure choose API Level 29 or above version System image and click next and finish. After you created your android device , click run button to turn on your device and then drag the apk file you downloaded from the download link above. You should be successfully installed the app.
 
+If run the app in the physical Android phone:
+
+Click the download link above, and install the apk file to your phone.
 ## Windows Software:
 After finishing the installation, a file named "Restaurant Demo" will appear on the desktop.
 1. The welcome page contains two parts. (sign in and sign up)
