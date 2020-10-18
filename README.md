@@ -6,6 +6,11 @@ This project is a two way communication between server and the software. Those t
 
 The server has a database running and with port forwarding technology. Each port  is open for access to the database from Android app or Windows software. So, there won’t be any interaction from software and the android app directly. The database is designed to store and update the data only. So the server is going to handle only the http request from both Android app and Windows software. 
 Both Android app and Windows software are the access point to the database by port forwarding as well. Users don't need to join the same network to access the database due to the port forwarding technology. There is no authentication needed by the user, everything is preconfigured. Because of the nature of the structure, both software and application are only going to send the http request to the server and wait for the server's response. So, the software or application will display the information that is sent back from the server.
+# Whatis new
+
+## Andoird App:
+
+## Windows Software:
 
 # Installation guide
 
@@ -30,3 +35,15 @@ Download the Installer on your Windows PC and open the file to install the softw
 Downloads:
 
 https://drive.google.com/file/d/19E-q18r9ACZ7E-f0xQ12VDUfjRk82Jqm/view?usp=sharing
+
+# How to use
+
+## Andoird App:
+
+## Windows Software:
+
+# Link of the source code
+
+## Andoird App:
+
+## Windows Software:
