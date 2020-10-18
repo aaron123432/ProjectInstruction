@@ -48,8 +48,11 @@ After finishing the installation, a file named "Restaurant Demo" will appear on 
 2. Sign in: input your username and password to log in. If you don't have an account, please click  "Don't have an account?Click here" to sign up.
 3. Sign up: input the username, email address, password and confirm password to finish the registration. Notice that the username may exist, and the password and confirm password need to match. 
 4.  click sign up button to finish registration
+
+
 # Link of the source code
 
 ## Andoird App:
 
 ## Windows Software:
+https://github.com/DTaraska11/RestaurantManager/tree/sarah
