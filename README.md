@@ -9,6 +9,7 @@ Both Android app and Windows software are the access point to the database by po
 # What is new
 
 ## Andoird App:
+For the first demo, we finished the first version of sign in and sign up form. Now, users can register and log in using our software.
 
 ## Windows Software:
 For the first demo, we finished the first version of sign in and sign up form. Now, users can register and log in using our software.
