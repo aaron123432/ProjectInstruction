@@ -11,6 +11,7 @@ Both Android app and Windows software are the access point to the database by po
 ## Andoird App:
 
 ## Windows Software:
+For the first demo, we finished the first version of sign in and sign up form. Now, users can register and log in using our software.
 
 # Installation guide
 
@@ -20,7 +21,7 @@ Download the APK package to your android device from the downloads link and unzi
 
 Downloads:
 
-https://drive.google.com/file/d/184PKK2oYV7I25hOCocFt_SzTiENyXlkR/view?usp=sharing
+https://github.com/aaron123432/ProjectInstruction/raw/main/Android%20part.zip
 
 Recommanded device
 
@@ -32,9 +33,10 @@ Recommanded device
 
 Download the Installer on your Windows PC and open the file to install the software on your machine. First page will be the sign in page and you can either sign in or click sign up button to create a new account. 
 
-Downloads:
+Downloads: 
 
-https://drive.google.com/file/d/19E-q18r9ACZ7E-f0xQ12VDUfjRk82Jqm/view?usp=sharing
+https://github.com/aaron123432/ProjectInstruction/raw/main/Restaurant_Demo1.msi
+
 
 # How to use
 
