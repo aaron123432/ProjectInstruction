@@ -60,8 +60,8 @@ After finishing the installation, a file named "Restaurant Demo" will appear on 
 
 # Link of the source code
 
-https://github.com/winsonwen/restaurant-management-system-frontend-android/tree/delivery-branch
 ## Andoird App:
+https://github.com/winsonwen/restaurant-management-system-frontend-android/tree/delivery-branch
 
 ## Windows Software:
 https://github.com/DTaraska11/RestaurantManager/tree/sarah
