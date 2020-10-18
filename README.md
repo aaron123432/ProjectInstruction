@@ -9,6 +9,7 @@ Downloads:
 https://drive.google.com/file/d/184PKK2oYV7I25hOCocFt_SzTiENyXlkR/view?usp=sharing
 
 Recommanded device
+
 1.Emulator from Android Studio(API level 29 or above)
 
 2.Android device with version 9 or higher
