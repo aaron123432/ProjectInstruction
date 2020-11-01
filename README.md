@@ -21,13 +21,13 @@ For the first demo, we finished the first version of sign in and sign up form. N
 
 #### Windows Software:
 
-##### 1. Add a new form, named staff_info.
+##### 1. Add a new form, named staff_info. (Zidong Wang)
 
 a. This form is only visible to the owner  
 
  b. The owner can create, edit, and delete staff information here
 
-##### 2. Add a new form, named stock.
+##### 2. Add a new form, named stock.  (Zidong Wang)
 
 a. This form is visible to the owner and employee. 
   
@@ -42,7 +42,7 @@ a. This form is visible to the owner and employee.
 #### Android App:
 
 #### Windows Software:
-· Fixed some issues that caused registration failures
+· Fixed some issues that caused registration failures (Zidong Wang)
 
 
 
@@ -106,10 +106,31 @@ username: employee
 password: 123
 
 ### Stock form: food material information and the inventory
-On the main page, you can see a stock button. Click it to display the stock form. In the stock form, you can add a new food martial information in the upper left corner. Also, you can filter and search for some information by some specific condition. The safe stock button which at the upper right corner will change the quantity to red if the quantity is less than safe stock. You can edit and delete some item's information in the grid.
+
+1.On the main page, you can see the stock button. Click it to display the stock form. 
+
+2.In the stock form, you can add a new food martial information in the upper left corner. 
+
+3.You can filter and search for some information by some specific condition, you can use one or more conditions to filter. 
+
+4.The safe stock button which at the upper right corner will change the quantity to red if the quantity is less than safe stock. 
+
+5. You can edit and delete some item's information in the grid.
 
 ### Staff information form: 
-On the main page, you can see the staff button in the upper right corner. Click it to display the staff form. On the left, it is a tree which includes all staff's name and their position. you can click their name and display their detailed information. At the top-left corner, there are three buttons there, you can click them to add new staff information and edit specific staff information (Note that, you should select a person and click the edit button). You need to input their information in the textbox on the right side of the formand save the changes. Also, you can delete a user's information by clicking the delete button at the right bottom. 
+1. On the main page, you can see the staff button in the upper right corner. Click it to display the staff form.
+
+2. On the left, it is a tree which includes all staff's name and their position. 
+
+3. you can click their name and display their detailed information. 
+
+4. At the top-left corner, there are three buttons there, you can click them to add new staff information and edit specific staff information (Note that, you should select a person and click the edit button). 
+
+5. You need to input their information in the textbox on the right side of the form. 
+
+6. You need to click save to complete the add or modify operation
+
+7. You can delete a user's information by clicking the delete button at the right bottom. 
 
 
 # Link of the source code
