@@ -139,4 +139,4 @@ password: 123
 https://github.com/winsonwen/restaurant-management-system-frontend-android/tree/delivery-branch
 
 ## Windows Software:
-https://github.com/DTaraska11/RestaurantManager/tree/sarah
+https://github.com/DTaraska11/RestaurantManager/tree/master
