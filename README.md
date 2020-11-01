@@ -89,9 +89,13 @@ After finishing the installation, a file named "Restaurant Management System" wi
 2. Log in: input your username and password to log in. If you don't have an account, please click  "Don't have an account?Click here" to sign up.
 3. Sign up: input the username, email address, password and confirm password to finish the registration. Notice that the username you put may exist, you need to try another one. The password and confirm password need to match. 
 4.  click sign up button to finish registration
-5. We provide two user identities, the owner and the employee.
+5. We provide two user identities for testing.
 
-a. ownerusername: adminpassword: 123
+a. owner
+
+username: admin
+
+password: 123
 
 The owner can access both the stock and staff information page.
 
@@ -101,11 +105,11 @@ username: employee
 
 password: 123
 
-### 
+### Stock form: food material information and the inventory
+On the main page, you can see a stock button. Click it to display the stock form. In the stock form, you can add a new food martial information in the upper left corner. Also, you can filter and search for some information by some specific condition. The safe stock button which at the upper right corner will change the quantity to red if the quantity is less than safe stock. You can edit and delete some item's information in the grid.
 
-The employee can only access both the stock page.
-Stock formStaff
-information form
+### Staff information form: 
+On the main page, you can see the staff button in the upper right corner. Click it to display the staff form. On the left, it is a tree which includes all staff's name and their position. you can click their name and display their detailed information. At the top-left corner, there are three buttons there, you can click them to add new staff information and edit specific staff information (Note that, you should select a person and click the edit button). You need to input their information in the textbox on the right side of the formand save the changes. Also, you can delete a user's information by clicking the delete button at the right bottom. 
 
 
 # Link of the source code
