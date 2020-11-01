@@ -7,12 +7,44 @@ This project is a two way communication between server and the software. Those t
 The server has a database running and with port forwarding technology. Each port  is open for access to the database from Android app or Windows software. So, there won’t be any interaction from software and the android app directly. The database is designed to store and update the data only. So the server is going to handle only the http request from both Android app and Windows software. 
 Both Android app and Windows software are the access point to the database by port forwarding as well. Users don't need to join the same network to access the database due to the port forwarding technology. There is no authentication needed by the user, everything is preconfigured. Because of the nature of the structure, both software and application are only going to send the http request to the server and wait for the server's response. So, the software or application will display the information that is sent back from the server.
 # Release Note
+## October 18,2020
+### Android App:
 
-## Android App:
+For the first demo, we finished the first version of sign in and sign up form. Now, users can register and log in using our software.
+### Windows Software:
 For the first demo, we finished the first version of sign in and sign up form. Now, users can register and log in using our software.
 
-## Windows Software:
-For the first demo, we finished the first version of sign in and sign up form. Now, users can register and log in using our software.
+## October 31,2020
+### New Features
+
+#### Android App:
+
+#### Windows Software:
+
+##### 1. Add a new form, named staff_info.
+
+a. This form is only visible to the owner  
+
+ b. The owner can create, edit, and delete staff information here
+
+##### 2. Add a new form, named stock.
+
+a. This form is visible to the owner and employee. 
+  
+ b. The user can create, edit, and delete food material here. 
+
+ c. The user can filter and manipulate a particular item.
+
+ d. The user can check the safety stock
+
+### Bug Fixes
+
+#### Android App:
+
+#### Windows Software:
+· Fixed some issues that caused registration failures
+
+
 
 # Installation guide
 
@@ -39,7 +71,7 @@ Downloads:
 https://github.com/aaron123432/ProjectInstruction/raw/main/Restaurant_Demo1.msi
 
 
-# How to use
+# Testing Instruction
 
 ## Android App:
 
@@ -51,11 +83,29 @@ If run the app in the physical Android phone:
 
 Click the download link above, and install the apk file to your phone.
 ## Windows Software:
-After finishing the installation, a file named "Restaurant Demo" will appear on the desktop.
+### Log in and sign up
+After finishing the installation, a file named "Restaurant Management System" will appear on the desktop.
 1. The welcome page contains two parts. (sign in and sign up)
-2. Sign in: input your username and password to log in. If you don't have an account, please click  "Don't have an account?Click here" to sign up.
+2. Log in: input your username and password to log in. If you don't have an account, please click  "Don't have an account?Click here" to sign up.
 3. Sign up: input the username, email address, password and confirm password to finish the registration. Notice that the username you put may exist, you need to try another one. The password and confirm password need to match. 
 4.  click sign up button to finish registration
+5. We provide two user identities, the owner and the employee.
+
+a. ownerusername: adminpassword: 123
+
+The owner can access both the stock and staff information page.
+
+b. employee
+
+username: employee
+
+password: 123
+
+### 
+
+The employee can only access both the stock page.
+Stock formStaff
+information form
 
 
 # Link of the source code
