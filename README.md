@@ -80,7 +80,7 @@ Download the Installer on your Windows PC and open the file to install the softw
 
 Downloads: 
 
-https://github.com/aaron123432/ProjectInstruction/raw/main/Restaurant_Demo1.msi
+https://github.com/aaron123432/ProjectInstruction/blob/main/Setup_for_demo2.msi
 
 
 # Testing Instruction
