@@ -90,11 +90,18 @@ https://github.com/aaron123432/ProjectInstruction/blob/main/Setup_for_demo2.msi
 If run the app in Android Studio:
 
 First go to https://developer.android.com/studio to download android studio and install it to your PC. Open Android Studio, on the top-right cornor, click on AVD Manager, to create a new virtual device. Click the create new device button, and choose Phone on the Category and choose any device model you would like and click next. After each Release Version, it shows the API Level of the system image, make sure choose API Level 29 or above version System image and click next and finish. After you created your android device , click run button to turn on your device and then drag the apk file you downloaded from the download link above. You should be successfully installed the app.
+
 1.The home page contains two parts.(sign in and sign up)
+
 2.Log in: input your username and password to log in. If you don't have an account, just click sign up button to create an account.
+
 3.Sign up: input all the required field and click submit button. note(it can only sign up for user account on mobile app)
+
 4.Home Fragment: after sign in to the app, the home fragment will display order history, but since there is no data in the database, so nothing will display at the screen.
-5.UserInfo Fragment: on the top-left cornor, there is a menu bar, user can go to any fragment just by clicking the menu, and user can change the data in the field and click the submit button to update the info.
+
+5.UserInfo Fragment: on the top-left cornor, there is a menu bar, user can go to any fragment just by clicking the menu, and user can change the data in the field and click the 
+submit button to update the info.
+
 6.GoogleMap Fragment: on the menu bar, user can click the GoogleMap, and a google map will display on the screen.
 If run the app in the physical Android phone:
 
