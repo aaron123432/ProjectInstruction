@@ -19,7 +19,7 @@ For the first demo, we finished the first version of sign in and sign up form. N
 
 #### Android App:
 
-######1. Add four fragments for both employee and user Activity, UserInfoFragment,LogOutFragment, GoogleMapFragment, and HomeFragment.
+##### 1. Add four fragments for both employee and user Activity, UserInfoFragment,LogOutFragment, GoogleMapFragment, and HomeFragment.
 
 a. UserInfoFragment allow user/employee to update their account informations, 
 
@@ -29,7 +29,6 @@ c. GoogleMapFragment allow user/employee to track their order location
 
 d. HomeFragment will display any orders that user placed or employee received
 
-######2. 
 
 #### Windows Software:
 
@@ -53,9 +52,10 @@ a. This form is visible to the owner and employee.
 
 #### Android App:
 
+· GoogleMap is currently not working and Home fragment will not display anything because their is no order info in database
+
 #### Windows Software:
 · Fixed some issues that caused registration failures (Zidong Wang)
-
 
 
 # Installation guide
