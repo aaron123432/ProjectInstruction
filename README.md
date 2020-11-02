@@ -47,6 +47,22 @@ a. This form is visible to the owner and employee.
  c. The user can filter and manipulate a particular item.
 
  d. The user can check the safety stock
+ 
+ ##### 3. Added to sign up process/forms.  (Dominic Taraska)
+ 
+ a. More user info fields 
+ 
+  b. Differentiation of employee/admin accounts 
+  
+  c. Account identifier (id) 
+  
+ 
+ ##### 4. Added authority checking for accounts.  (Dominic Taraska)
+ 
+ a. A given account has an associated privilege that will determine what they can view
+ 
+ b. Some minor integration with this for the 'Home' forms and 'Stock' forms 
+ 
 
 ### Bug Fixes
 
