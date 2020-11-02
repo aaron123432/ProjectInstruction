@@ -32,13 +32,13 @@ d. HomeFragment will display any orders that user placed or employee received
 
 #### Windows Software:
 
-##### 1. Add a new form, named staff_info. (Zidong Wang)
+##### 1. Add a new form,staff_info. (Zidong Wang)
 
 a. This form is only visible to the owner  
 
  b. The owner can create, edit, and delete staff information here
 
-##### 2. Add a new form, named stock.  (Zidong Wang)
+##### 2. Add a new form,stock.  (Zidong Wang)
 
 a. This form is visible to the owner and employee. 
   
