@@ -66,7 +66,7 @@ Download the APK package to your android device from the downloads link and unzi
 
 Downloads:
 
-https://github.com/aaron123432/ProjectInstruction/raw/main/Android%20part.zip
+https://github.com/aaron123432/ProjectInstruction/blob/main/app-debug.apk
 
 Recommanded device
 
