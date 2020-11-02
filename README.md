@@ -52,7 +52,9 @@ a. This form is visible to the owner and employee.
 
 #### Android App:
 
-· GoogleMap is currently not working and Home fragment will not display anything because their is no order info in database
+· GoogleMap is currently not working and Home fragment will not display anything because their is no order info in database.
+
+· Fix the server issues that aws isn't running backend program correctly and keep shutting it down and every time reboot just constantly change its ip address(Aaron & Winson)
 
 #### Windows Software:
 · Fixed some issues that caused registration failures (Zidong Wang)
