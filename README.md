@@ -108,10 +108,13 @@ If run the app in the physical Android phone:
 Click the download link above, and install the apk file to your phone.
 
 For user sign in:
+
 tester can sign up a user account and log in with the account tester just created.
 
 For employee sign in:
+
 since sign up function will set account type to be customer by default, so use the account provided below to test.
+
 username: 12345678
 
 Password: 5678
