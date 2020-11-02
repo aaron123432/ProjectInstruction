@@ -19,6 +19,18 @@ For the first demo, we finished the first version of sign in and sign up form. N
 
 #### Android App:
 
+######1. Add four fragments for both employee and user Activity, UserInfoFragment,LogOutFragment, GoogleMapFragment, and HomeFragment.
+
+a. UserInfoFragment allow user/employee to update their account informations, 
+
+b. LogOutFragment allow user/employee to logout their account
+
+c. GoogleMapFragment allow user/employee to track their order location
+
+d. HomeFragment will display any orders that user placed or employee received
+
+######2. 
+
 #### Windows Software:
 
 ##### 1. Add a new form, named staff_info. (Zidong Wang)
