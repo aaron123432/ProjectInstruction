@@ -77,6 +77,19 @@ a. This form is visible to the owner and employee.
 · Fixed some issues that caused registration failures (Zidong Wang)
 
 
+## November 16,2020
+### Android App:
+
+
+#### Windows Software:
+
+#### 1. Added 2D view form (Dominic)
+
+a. User is presented with 2D view when 'Open' button on main menu is clicked 
+
+b. As of right now, this 2D view provides nagivation to 5 information forms: Staff info, Orders info, Stock info, Reservation info, and Menu/Order taking
+
+
 # Installation guide
 
 ## Android App:
@@ -99,7 +112,7 @@ Download the Installer on your Windows PC and open the file to install the softw
 
 Downloads: 
 
-https://github.com/aaron123432/ProjectInstruction/blob/main/Setup_for_demo2.msi
+https://github.com/aaron123432/ProjectInstruction/blob/main/SetupDemo3.msi
 
 
 # Testing Instruction
