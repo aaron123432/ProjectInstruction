@@ -80,6 +80,10 @@ a. This form is visible to the owner and employee.
 ## November 16,2020
 ### Android App:
 
+a.User will be about to see the order history after sign in
+
+b.Delivery person(Employee) will see the their delivery history, coming order or currently delivery order status
+
 
 #### Windows Software:
 
@@ -94,7 +98,7 @@ b. As of right now, this 2D view provides nagivation to 5 information forms: Sta
 
 ## Android App:
 
-Download the APK package to your android device from the downloads link and unzip the file to get the apk file. to install the app to your device, simplely drag the apk file to your device. After installation, you will need to open the app to access the login section of the app. Once you successfully login to the app, you will be either redirect to the user page or the employee page based on your account role. Also, you can create a account by clicking the sign up button, and then enter the informations to the form and click the submit, and then go to login page to login to your account.
+Download the APK package to your android device from the downloads link and unzip the file to get the apk file. to install the app to your device, simplely drag the apk file to your device. After installation, you will need to open the app to access the login section of the app. Once you successfully login to the app, you will be either redirect to the user page or the employee page based on your account role. Also, you can create a account by clicking the sign up button, and then enter the informations to the form and click the submit, and then go to login page to login to your account. If testing with virtual phone, first go to https://developer.android.com/studio to download android studio and install it to your PC. Open Android Studio, on the top-right cornor, click on AVD Manager, to create a new virtual device. Click the create new device button, and choose Phone on the Category and choose any device model you would like and click next. After each Release Version, it shows the API Level of the system image, make sure choose API Level 29 or above version System image and click next and finish. After you created your android device , click run button to turn on your device and then drag the apk file you downloaded from the download link above. You should be successfully installed the app. (Making sure if you are first time using android studio, go to device setting and turn on the location permission for the app, otherwise sometimes the program will crash).
 
 Downloads:
 
@@ -120,8 +124,6 @@ https://github.com/aaron123432/ProjectInstruction/blob/main/SetupDemo3.msi
 ## Android App:
 
 If run the app in Android Studio:
-
-First go to https://developer.android.com/studio to download android studio and install it to your PC. Open Android Studio, on the top-right cornor, click on AVD Manager, to create a new virtual device. Click the create new device button, and choose Phone on the Category and choose any device model you would like and click next. After each Release Version, it shows the API Level of the system image, make sure choose API Level 29 or above version System image and click next and finish. After you created your android device , click run button to turn on your device and then drag the apk file you downloaded from the download link above. You should be successfully installed the app.
 
 1.The home page contains two parts.(sign in and sign up)
 
