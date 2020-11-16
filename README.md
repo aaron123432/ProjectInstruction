@@ -80,7 +80,7 @@ a. This form is visible to the owner and employee.
 ## November 16,2020
 ### Android App:
 
-a.User will be about to see the order history after sign in
+a.User will be able to see the order history after sign in
 
 b.Delivery person(Employee) will see the their delivery history, coming order or currently delivery order status
 
