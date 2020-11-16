@@ -63,8 +63,12 @@ a. This form is visible to the owner and employee.
  a. A given account has an associated privilege that will determine what they can view
  
  b. Some minor integration with this for the 'Home' forms and 'Stock' forms 
- 
 
+##### 5. added Main page   (Sarah Noshin)
+
+a. created  varaitions of main page form based on user acesss and permission
+ 
+b. created navigation bar for user to access different part of the app
 ### Bug Fixes
 
 #### Android App:
@@ -95,15 +99,25 @@ b. As of right now, this 2D view provides nagivation to 5 information forms: Sta
 
 #### 2. Added Menu form: 4 menus and my cart (Sarah)
 a. user is presented with the option to select from 4 different menu's and use my cart to order menu items
+
 b. user can go in my cart tab to click start order
+
 c. user can add menu items by choosing from 16 menu items and clicking on each one to add to order
+
 d. user can hit refresh on my cart to see order
+
 e. to search order : type in search bar and hit search button to filter item name, cost, description
+
 f. to add an item : type in the empty input fields, hit add button 
+
 g. to clear fields : hit clear button
+
 h. to update an item : double click item on data grid view table, add button turns to update button, that menu item info will appear in input fields, adjust field information, hit update button
+
 i. to delete an item : hit delete
+
 j. to get total price : hit total 
+
 k. as of right now there is a finish order button but it is not functional.
 
 # Installation guide
