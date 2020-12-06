@@ -118,9 +118,11 @@ i. to delete an item : hit delete
 
 j. to get total price : hit total 
 
-k. to finish order: hit finish order and order will display in finished order with tip and total in datagridview table below
-l. to delete order history: hit delete near the order history table 
-m. to get total of all orders in order history: hit total near the order history table
+k. to finish order: hit "finish order"button and order will display in completed orders table with tip and total in datagridview table below
+
+l. to delete order history: hit delete button near the completed order table 
+
+m. to get total of all orders in order history: hit total button near the completed order table to get the total of all past order
 
 # Installation guide
 
