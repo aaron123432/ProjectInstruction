@@ -179,9 +179,9 @@ For employee sign in:
 
 since sign up function will set account type to be customer by default, so use the account provided below to test.
 
-username: 12345678
+username: admin1111
 
-Password: 5678
+Password: 1111
 
 ## Windows Software:
 ### Log in and sign up
