@@ -8,10 +8,14 @@
 ### Reservation making. Users can now create a reservation with a selected date/time, name, and # of people. '
 ### Table seating/Table status. Tables display a status icon that show the current status of the table. (Green = Available, Red = Taken, Orange = Not clean) Clicking on this icon will change the status.
 
+# Bug Fixes
+
+## Windows
+
+### Fixed bug where user signup information was not getting saved to the DB
 
 
-
-# Bugs
+# Active Bugs
 ## Windows part
 the tree in the staff information page always loads slow
 
