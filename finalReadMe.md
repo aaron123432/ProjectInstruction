@@ -11,9 +11,7 @@
 # Bug Fixes
 
 ## Windows
-
 ### Fixed bug where user signup information was not getting saved to the DB
-
 
 # Active Bugs
 ## Windows part
